@@ -1,5 +1,4 @@
 /**
- * Copyright (c) 2020
  *
  * This program calculates the time required to heat food 
  * in a microwave.
